@@ -55,8 +55,16 @@ handelnd auch für die Firma LEXO
 
 4.1 **Gemeinsames Eigentum**: Alle im Rahmen dieses Konzeptphasen-Projekts gemeinsam erarbeiteten Arbeitsergebnisse stehen im gemeinsamen Eigentum der Parteien zu je 50 %.
 
-4.2 **Nutzung und Verwertung**: Beide Parteien dürfen die erarbeiteten Konzepte, Designs, Wireframes und sonstigen Ergebnisse nur unter expliziter schriftlicher Zustimmung der anderen Partei weiterentwickeln, verwerten oder an Dritte vertreiben.
+4.2 **Nutzung und Verwertung**: Die Arbeitsergebnisse gemäss Ziff. 4.1 dürfen nur mit schriftlicher Zustimmung der anderen Partei weiterentwickelt, verwertet oder an Dritte vertrieben werden. Für den Fall der vorzeitigen Beendigung gilt Ziff. 6.
 
+4.3 **Nachlassregelung**: Im Falle des Ablebens einer Partei gehen sämtliche Rechte an den Arbeitsergebnissen gemäss Ziff. 4.1 vollständig auf die andere Partei über.
+
+********************************************************************************
+LETZTER STAND 26.11.2025
+
+- Wann endet diese Vereinbarung (exakte Definition fehlt nocht)?
+- Was ist der Unterschied zwischen Projektabbruch und vorzeitige Beendigung?
+********************************************************************************
 ---
 
 ## 5. Wirtschaftliche Regelung: Aufwendungen und Erträge
@@ -75,13 +83,11 @@ handelnd auch für die Firma LEXO
 
 6.2 **Scheitern des Projekts**: Sollte die Konzeptphase scheitern oder eine Partei das Projekt nicht weiterverfolgen wollen, hat keine Partei Anspruch auf Ausgleich oder Entschädigung für die eingebrachten Aufwendungen. Beide Parteien tragen ihr eigenes Risiko.
 
-6.3 **Weiterführung durch eine Partei**: Möchte eine Partei das Projekt nach Beendigung selbständig weiterführen und die erarbeiteten Daten, Werke und Rechte verwenden, ist die schriftliche Zustimmung der anderen Partei erforderlich.
+6.3 **Einigung bei Weiterführung**: Die Weiterführung des Projekts durch eine Partei nach Beendigung erfordert eine separate schriftliche Vereinbarung. In dieser ist die Entschädigung der anderen Partei zu regeln.
 
-6.4 **Einigung bei Weiterführung**: Die Weiterführung durch eine Partei erfordert eine separate schriftliche Vereinbarung. In dieser ist die Entschädigung der anderen Partei zu regeln.
+6.4 **Entschädigungsregel**: Sofern keine andere Einigung getroffen wird, hat die nicht weiterführende Partei Anspruch auf angemessene Entschädigung ihrer geleisteten, dokumentierten Zeitaufwendungen durch die weiterführende Partei. Die Höhe der Entschädigung ist zwischen den Parteien fair auszuhandeln und orientiert sich an den dokumentierten Zeitanteilen sowie dem wirtschaftlichen Wert des Projekts. Mit Zahlung dieser Entschädigung ist die nicht weiterführende Partei aus den Verpflichtungen dieser Vereinbarung entlassen, mit Ausnahme der Nachwirkung der Geheimhaltungspflichten gemäss Ziff. 9.3, welche uneingeschränkt weiterhin Gültigkeit behalten.
 
-6.5 **Entschädigungsregel**: Sofern keine andere Einigung getroffen wird, hat die nicht weiterführende Partei Anspruch auf angemessene Entschädigung ihrer geleisteten, dokumentierten Zeitaufwendungen durch die weiterführende Partei. Die Höhe der Entschädigung ist zwischen den Parteien fair auszuhandeln und orientiert sich an den dokumentierten Zeitanteilen sowie dem wirtschaftlichen Wert des Projekts. Mit Zahlung dieser Entschädigung ist die nicht weiterführende Partei aus den Verpflichtungen dieser Vereinbarung entlassen, mit Ausnahme der Nachwirkung der Geheimhaltungspflichten gemäss Ziff. 9.3, welche uneingeschränkt weiterhin Gültigkeit behalten.
-
-6.6 **Ablösung dieser Vereinbarung**: Mit Abschluss einer separaten Vereinbarung gemäss Ziff. 6.4 oder bei Übergang in Produktivbetrieb (Ziff. 5.1) wird die vorliegende Vereinbarung vollständig ersetzt.
+6.5 **Ablösung dieser Vereinbarung**: Mit Abschluss einer separaten Vereinbarung gemäss Ziff. 6.3 oder bei Übergang in Produktivbetrieb (Ziff. 5.1) wird die vorliegende Vereinbarung vollständig ersetzt.
 
 ---
 
@@ -139,7 +145,7 @@ handelnd auch für die Firma LEXO
 9.1 Diese Vereinbarung tritt mit Unterzeichnung in Kraft.
 
 9.2 **Beendigung**: Diese Vereinbarung endet:
-   (a) **Automatisch** mit Inkrafttreten einer neuen Vereinbarung gemäss Ziff. 5.1 (Übergang in Produktivbetrieb) oder Ziff. 6.4 (Weiterführung durch eine Partei), oder
+   (a) **Automatisch** mit Inkrafttreten einer neuen Vereinbarung gemäss Ziff. 5.1 (Übergang in Produktivbetrieb) oder Ziff. 6.3 (Weiterführung durch eine Partei), oder
    (b) **Durch ordentliche Kündigung** einer Partei mittels schriftlicher Erklärung mit einer Frist von 30 Tagen ab Zugang der Kündigungserklärung bei der anderen Partei.
 
 9.3 **Nachwirkung der Geheimhaltungspflichten**: Die Geheimhaltungspflichten gemäss Ziff. 2 bleiben über die Beendigung dieser Vereinbarung hinaus für weitere 5 Jahre bestehen.
