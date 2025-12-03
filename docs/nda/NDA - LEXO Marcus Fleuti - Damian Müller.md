@@ -55,15 +55,13 @@ handelnd auch für die Firma LEXO
 
 4.1 **Gemeinsames Eigentum**: Alle im Rahmen dieses Konzeptphasen-Projekts gemeinsam erarbeiteten Arbeitsergebnisse stehen im gemeinsamen Eigentum der Parteien zu je 50 %.
 
-4.2 **Nutzung und Verwertung**: Die Arbeitsergebnisse gemäss Ziff. 4.1 dürfen nur mit schriftlicher Zustimmung der anderen Partei weiterentwickelt, verwertet oder an Dritte vertrieben werden. Für den Fall der vorzeitigen Beendigung gilt Ziff. 6.
+4.2 **Nutzung und Verwertung**: Die Arbeitsergebnisse gemäss Ziffer 4.1 dürfen nur mit schriftlicher Zustimmung der anderen Partei weiterentwickelt, verwertet oder an Dritte vertrieben werden. Für den Fall der Beendigung gilt Ziffer 8.
 
-4.3 **Nachlassregelung**: Im Falle des Ablebens einer Partei gehen sämtliche Rechte an den Arbeitsergebnissen gemäss Ziff. 4.1 vollständig auf die andere Partei über.
+4.3 **Nachlassregelung**: Im Falle des Ablebens einer Partei gehen sämtliche Rechte an den Arbeitsergebnissen gemäss Ziffer 4.1 vollständig auf die andere Partei über.
 
 ********************************************************************************
-LETZTER STAND 26.11.2025
-
-- Wann endet diese Vereinbarung (exakte Definition fehlt nocht)?
-- Was ist der Unterschied zwischen Projektabbruch und vorzeitige Beendigung?
+Ab Punkt 5 müssen wir es noch weiter analysieren, da wir zuletzt hier 
+Umstrukturierungen vorgenommen hatten.
 ********************************************************************************
 ---
 
@@ -77,29 +75,15 @@ LETZTER STAND 26.11.2025
 
 ---
 
-## 6. Projektabbruch und vorzeitige Beendigung
+## 6. Entscheidungsfindung und Projektsteuerung
 
-6.1 **Einseitiger Projektabbruch**: Jede Partei kann das Konzeptphasen-Projekt jederzeit einseitig beenden. In diesem Fall gelten die Regelungen gemäss Ziff. 6.3 bis 6.5.
+6.1 **Gleichberechtigung**: Beide Parteien sind zu je 50 % an diesem Konzeptphasen-Projekt beteiligt und gleichberechtigt.
 
-6.2 **Scheitern des Projekts**: Sollte die Konzeptphase scheitern oder eine Partei das Projekt nicht weiterverfolgen wollen, hat keine Partei Anspruch auf Ausgleich oder Entschädigung für die eingebrachten Aufwendungen. Beide Parteien tragen ihr eigenes Risiko.
+6.2 **Konsensprinzip**: Alle wesentlichen Entscheidungen (z.B. Architektur, Technologieauswahl, Projektrichtung) werden einvernehmlich getroffen.
 
-6.3 **Einigung bei Weiterführung**: Die Weiterführung des Projekts durch eine Partei nach Beendigung erfordert eine separate schriftliche Vereinbarung. In dieser ist die Entschädigung der anderen Partei zu regeln.
+6.3 **Bei Meinungsverschiedenheiten**: Können sich die Parteien bei einer Entscheidung nicht einigen, wird zunächst eine Mediation angestrebt. Führt dies zu keinem Ergebnis, entscheidet das Los.
 
-6.4 **Entschädigungsregel**: Sofern keine andere Einigung getroffen wird, hat die nicht weiterführende Partei Anspruch auf angemessene Entschädigung ihrer geleisteten, dokumentierten Zeitaufwendungen durch die weiterführende Partei. Die Höhe der Entschädigung ist zwischen den Parteien fair auszuhandeln und orientiert sich an den dokumentierten Zeitanteilen sowie dem wirtschaftlichen Wert des Projekts. Mit Zahlung dieser Entschädigung ist die nicht weiterführende Partei aus den Verpflichtungen dieser Vereinbarung entlassen, mit Ausnahme der Nachwirkung der Geheimhaltungspflichten gemäss Ziff. 9.3, welche uneingeschränkt weiterhin Gültigkeit behalten.
-
-6.5 **Ablösung dieser Vereinbarung**: Mit Abschluss einer separaten Vereinbarung gemäss Ziff. 6.3 oder bei Übergang in Produktivbetrieb (Ziff. 5.1) wird die vorliegende Vereinbarung vollständig ersetzt.
-
----
-
-## 7. Entscheidungsfindung und Projektsteuerung
-
-7.1 **Gleichberechtigung**: Beide Parteien sind zu je 50 % an diesem Konzeptphasen-Projekt beteiligt und gleichberechtigt.
-
-7.2 **Konsensprinzip**: Alle wesentlichen Entscheidungen (z.B. Architektur, Technologieauswahl, Projektrichtung) werden einvernehmlich getroffen.
-
-7.3 **Bei Meinungsverschiedenheiten**: Können sich die Parteien bei einer Entscheidung nicht einigen, wird zunächst eine Mediation angestrebt. Führt dies zu keinem Ergebnis, entscheidet das Los.
-
-7.4 **Verantwortlichkeiten**:
+6.4 **Verantwortlichkeiten**:
 
    **MFLEUTI (Design- und UX-Verantwortung)**:
    - Erstellung von Wireframes
@@ -130,97 +114,113 @@ LETZTER STAND 26.11.2025
 
 ---
 
-## 8. Rückgabe und Löschung
+## 7. Rückgabe und Löschung
 
-8.1 Nach Beendigung der Zusammenarbeit sind sämtliche vertraulichen Informationen, Dokumente, Datenträger und Kopien unverzüglich zurückzugeben oder vollständig zu löschen, sofern nicht eine Weiterführung gemäss Ziff. 6.3-6.5 vereinbart wurde.
+7.1 Nach Beendigung der Zusammenarbeit sind sämtliche vertraulichen Informationen, Dokumente, Datenträger und Kopien unverzüglich zurückzugeben oder vollständig zu löschen, sofern nicht eine Weiterführung gemäss Ziffer 8.2(b) oder 8.2(c) vereinbart wurde.
 
-8.2 Auf Verlangen ist die vollständige Löschung schriftlich zu bestätigen.
+7.2 Auf Verlangen ist die vollständige Löschung schriftlich zu bestätigen.
 
-8.3 Ausgenommen hiervon sind Informationen, die aufgrund gesetzlicher Aufbewahrungspflichten zurückbehalten werden müssen. Diese bleiben weiterhin der Geheimhaltungspflicht unterworfen.
-
----
-
-## 9. Dauer, Beendigung und Nachwirkung
-
-9.1 Diese Vereinbarung tritt mit Unterzeichnung in Kraft.
-
-9.2 **Beendigung**: Diese Vereinbarung endet:
-   (a) **Automatisch** mit Inkrafttreten einer neuen Vereinbarung gemäss Ziff. 5.1 (Übergang in Produktivbetrieb) oder Ziff. 6.3 (Weiterführung durch eine Partei), oder
-   (b) **Durch ordentliche Kündigung** einer Partei mittels schriftlicher Erklärung mit einer Frist von 30 Tagen ab Zugang der Kündigungserklärung bei der anderen Partei.
-
-9.3 **Nachwirkung der Geheimhaltungspflichten**: Die Geheimhaltungspflichten gemäss Ziff. 2 bleiben über die Beendigung dieser Vereinbarung hinaus für weitere 5 Jahre bestehen.
-
-9.4 **Fortbestand weiterer Pflichten**: Nach Beendigung dieser Vereinbarung bleiben folgende Bestimmungen in Kraft: Geheimhaltungspflichten (Ziff. 2), Immaterialgüterrechte (Ziff. 4), Rückgabe und Löschung (Ziff. 8), Konventionalstrafe (Ziff. 10), Haftung (Ziff. 11) sowie die Schlussbestimmungen (Ziff. 15).
+7.3 Ausgenommen hiervon sind Informationen, die aufgrund gesetzlicher Aufbewahrungspflichten zurückbehalten werden müssen. Diese bleiben weiterhin der Geheimhaltungspflicht unterworfen.
 
 ---
 
-## 10. Konventionalstrafe
+********************************************************************************
+Punkt 8 ist bereits gut verarbeitet. Mit 8.2 a, b und c sind wir soweit
+zufrieden. 8.2d ist erst zum Teil ausgearbeitet. Wir fragen uns, ob wir evtl.
+noch die Option einer Mediation mit integrieren möchten.
+8.3 ist aus unserer Sicht OK
+8.4 wurde von KI erstellt, muss noch geprüft werden.
+Noch zu besprechen: Was gilt bei Invalidität (z.B. Extremfall Koma)
+********************************************************************************
 
-Bei schuldhafter Verletzung der Geheimhaltungspflichten verpflichtet sich die vertragsbrüchige Partei zur Zahlung einer Konventionalstrafe von CHF 10'000.00 pro Verstoss. Die Geltendmachung weitergehenden Schadenersatzes ist ausgeschlossen (vgl. Ziff. 11).
+## 8. Dauer, Beendigung und Nachwirkung
 
----
+8.1 Diese Vereinbarung tritt mit Unterzeichnung in Kraft.
 
-## 11. Haftung und Gewährleistung
+8.2 **Beendigung**: Diese Vereinbarung endet in folgenden Fällen:
+   (a) **Übergang in Produktivbetrieb**: Bei erfolgreicher Konzeptphase wird eine neue Vereinbarung gemäss Ziffer 5.1 ausgehandelt, welche die vorliegende Vereinbarung ersetzt. Das Projekt wird in neuer Form fortgeführt.
+   (b) **Ausstieg einer Partei**: Jede Partei kann ihre Beteiligung am Projekt durch einseitige Kündigung mit einer Frist von 90 Tagen beenden. Die Kündigung erfolgt mittels Einschreiben oder per E-Mail. Bei E-Mail muss die andere Partei den Erhalt schriftlich durch Antwort bestätigen. Die ausscheidende Partei verzichtet mit ihrem Ausstieg auf jegliche Entschädigung für geleistete Aufwendungen sowie auf das Recht zur eigenständigen Weiterführung des Projekts. Das Recht zur Weiterführung steht ausschliesslich der verbleibenden Partei zu.
+   (c) **Gemeinsame Beendigung**: Die Parteien können das Projekt jederzeit einvernehmlich beenden. Führt keine Partei das Projekt weiter, hat keine Partei Anspruch auf Entschädigung. Führt eine Partei das Projekt weiter, hat die ausscheidende Partei Anspruch auf Entschädigung ihrer dokumentierten Zeitaufwendungen zu CHF 75.00 pro Stunde. Die Weiterführung erfordert eine separate schriftliche Vereinbarung, welche die vorliegende Vereinbarung ersetzt.
+   (d) **Passivität einer Partei**: Reagiert eine Partei trotz schriftlicher Aufforderung per Einschreiben nicht, gilt die Zustellung nach 60 Tagen als erfolgt (Zustellungsfiktion). Mit Ablauf dieser Frist gilt dies als einseitiger Ausstieg gemäss Ziffer 8.2(b). Die passive Partei verzichtet damit auf jegliche Entschädigung sowie auf das Recht zur Weiterführung. Die aktive Partei ist berechtigt, das Projekt eigenständig weiterzuführen.
 
-11.1 **Haftungsausschluss**: Da es sich um die Erstellung einer Konzeptphase in Form von Wireframes ohne Produktivcharakter handelt, wird die Haftung zwischen den Parteien vollständig ausgeschlossen, soweit gesetzlich zulässig.
+8.3 **Keine Einigung bei Beendigung**: Erzielen die Parteien bei Beendigung keine Einigung, hat keine Partei Anspruch auf Auszahlung ihrer geleisteten Arbeitsstunden. Das Projekt darf von keiner Partei ohne separate schriftliche Vereinbarung weitergeführt werden.
 
-11.2 **Gewährleistungsausschluss**: Im Rahmen der Konzeptphase werden ausschliesslich konzeptionelle Visualisierungen erstellt, um die Machbarkeit und Vollständigkeit der geplanten Software zu prüfen. Die Wireframes sind als Konzeptentwurf zu werten und können Lücken, Unvollständigkeiten oder konzeptionelle Fehler enthalten. Es bestehen keinerlei Garantien oder Gewährleistungen für Vollständigkeit, Marktgängigkeit, technische Umsetzbarkeit oder Eignung für einen bestimmten Zweck.
-
-11.3 **Ausnahme**: Der Haftungsausschluss gilt nicht für Vorsatz, grobe Fahrlässigkeit oder die Verletzung der Geheimhaltungspflichten (diese sind über die Konventionalstrafe gemäss Ziff. 10 geregelt).
-
-11.4 **Haftung gegenüber Dritten**: Jede Partei trägt ihre eigene Haftung gegenüber Dritten. Die Parteien stellen sich gegenseitig von Ansprüchen Dritter frei, soweit diese nicht auf Vorsatz oder grober Fahrlässigkeit der anderen Partei beruhen.
-
----
-
-## 12. Datenschutz
-
-12.1 **Datenverantwortliche**: Datenverantwortliche im Sinne des revidierten Schweizerischen Datenschutzgesetzes (revDSG) sind ausschliesslich DMUELLER und MFLEUTI in ihrer Eigenschaft als Privatpersonen.
-
-12.2 **Datensicherheit**: Daten werden ausschliesslich über interne, sichere Plattformen (z.B. LEXO Cloud unter https://redmine.lexo.ch) über verschlüsselte Verbindungen ausgetauscht.
-
-12.3 **Keine Echtdaten in der Konzeptphase**: Im Rahmen der Erstellung der Konzeptphase wird explizit auf die Verwendung von Echtdaten oder Personendaten verzichtet. In den Wireframes werden ausschliesslich fiktive, anonymisierte Beispieldaten zu Darstellungszwecken verwendet.
-
-12.4 **Übergang zu Echtdaten**: Ab dem Zeitpunkt, in dem Echtdaten oder Personendaten verarbeitet werden sollen, ist zwingend eine separate Datenverarbeitungs-Vereinbarung (AVV) zu erstellen. In dieser wird LEXO als Auftragsverarbeiterin datenschutzrechtlich genannt, geprüft und akkreditiert.
-
-12.5 **Compliance**: Die Parteien verpflichten sich, die Bestimmungen des revDSG und der relevanten Datenschutzvorschriften einzuhalten.
+8.4 **Nachwirkung und Fortbestand von Pflichten**:
+   (a) **Geheimhaltungspflichten**: Die Geheimhaltungspflichten gemäss Ziffer 2 bleiben über die Beendigung dieser Vereinbarung hinaus für weitere 5 Jahre bestehen.
+   (b) **Erlöschen von Ansprüchen**: Mit Auszahlung der Entschädigung erlöschen sämtliche Ansprüche der ausscheidenden Partei. Sämtliche Zugänge zu Projektinformationen werden entzogen. Allenfalls in Backups vorhandene Projektdaten dürfen in keiner Form verwendet werden.
+   (c) **Löschung von Projektdaten**: Die ausscheidende Partei ist verpflichtet, sämtliche Projektdaten bei sich zu löschen. Die verbleibende Partei entzieht sämtliche Zugänge zu Projektdaten.
+   (d) **Verbot anderweitiger Zugänglichkeit**: Der ausscheidenden Partei ist es untersagt, sich auf anderem Weg Zugang zu Projektdaten zu verschaffen, insbesondere über Dritte.
+   (e) **Fortbestand weiterer Bestimmungen**: Nach Beendigung dieser Vereinbarung bleiben folgende Bestimmungen in Kraft: Geheimhaltungspflichten (Ziffer 2), Immaterialgüterrechte (Ziffer 4), Rückgabe und Löschung (Ziffer 7), Konventionalstrafe (Ziffer 9), Haftung (Ziffer 10) sowie die Schlussbestimmungen (Ziffer 14).
 
 ---
 
-## 13. Streitbeilegung
+## 9. Konventionalstrafe
 
-13.1 **Mediation**: Bei Streitigkeiten aus oder im Zusammenhang mit dieser Vereinbarung verpflichten sich die Parteien, zunächst eine Mediation anzustreben, bevor ein Gerichtsverfahren eingeleitet wird.
-
-13.2 **Mediator**: Die Parteien einigen sich auf einen gemeinsamen Mediator. Kommt keine Einigung zustande, wird der Mediator durch das zuständige Gericht bestimmt.
-
-13.3 **Kosten**: Die Kosten der Mediation tragen die Parteien je zur Hälfte.
+Bei schuldhafter Verletzung der Geheimhaltungspflichten verpflichtet sich die vertragsbrüchige Partei zur Zahlung einer Konventionalstrafe von CHF 10'000.00 pro Verstoss. Die Geltendmachung weitergehenden Schadenersatzes ist ausgeschlossen (vgl. Ziffer 10).
 
 ---
 
-## 14. Höhere Gewalt (Force Majeure)
+## 10. Haftung und Gewährleistung
 
-14.1 Keine Partei haftet für die Nichterfüllung oder verzögerte Erfüllung ihrer Verpflichtungen aus dieser Vereinbarung, wenn und soweit diese durch höhere Gewalt verursacht wird.
+10.1 **Haftungsausschluss**: Da es sich um die Erstellung einer Konzeptphase in Form von Wireframes ohne Produktivcharakter handelt, wird die Haftung zwischen den Parteien vollständig ausgeschlossen, soweit gesetzlich zulässig.
 
-14.2 Als höhere Gewalt gelten insbesondere: Naturkatastrophen, Krieg, Aufruhr, Pandemien, Streiks, behördliche Anordnungen, Ausfall kritischer Infrastruktur (Internet, Strom) sowie andere unvorhersehbare, unvermeidbare und ausserhalb der Kontrolle der betroffenen Partei liegende Ereignisse.
+10.2 **Gewährleistungsausschluss**: Im Rahmen der Konzeptphase werden ausschliesslich konzeptionelle Visualisierungen erstellt, um die Machbarkeit und Vollständigkeit der geplanten Software zu prüfen. Die Wireframes sind als Konzeptentwurf zu werten und können Lücken, Unvollständigkeiten oder konzeptionelle Fehler enthalten. Es bestehen keinerlei Garantien oder Gewährleistungen für Vollständigkeit, Marktgängigkeit, technische Umsetzbarkeit oder Eignung für einen bestimmten Zweck.
 
-14.3 Die betroffene Partei hat die andere Partei unverzüglich über das Eintreten und die voraussichtliche Dauer der höheren Gewalt zu informieren.
+10.3 **Ausnahme**: Der Haftungsausschluss gilt nicht für Vorsatz, grobe Fahrlässigkeit oder die Verletzung der Geheimhaltungspflichten (diese sind über die Konventionalstrafe gemäss Ziffer 9 geregelt).
+
+10.4 **Haftung gegenüber Dritten**: Jede Partei trägt ihre eigene Haftung gegenüber Dritten. Die Parteien stellen sich gegenseitig von Ansprüchen Dritter frei, soweit diese nicht auf Vorsatz oder grober Fahrlässigkeit der anderen Partei beruhen.
 
 ---
 
-## 15. Schlussbestimmungen
+## 11. Datenschutz
 
-15.1 **Schriftform**: Änderungen und Ergänzungen dieser Vereinbarung bedürfen der Schriftform. Dies gilt auch für die Aufhebung des Schriftformerfordernisses.
+11.1 **Datenverantwortliche**: Datenverantwortliche im Sinne des revidierten Schweizerischen Datenschutzgesetzes (revDSG) sind ausschliesslich DMUELLER und MFLEUTI in ihrer Eigenschaft als Privatpersonen.
 
-15.2 **Salvatorische Klausel**: Sollten einzelne Bestimmungen dieser Vereinbarung unwirksam sein oder werden, bleibt die Gültigkeit der übrigen Bestimmungen hiervon unberührt. Die unwirksame Bestimmung ist durch eine wirksame zu ersetzen, die dem wirtschaftlichen Zweck der unwirksamen Bestimmung am nächsten kommt.
+11.2 **Datensicherheit**: Daten werden ausschliesslich über interne, sichere Plattformen (z.B. LEXO Cloud unter https://redmine.lexo.ch) über verschlüsselte Verbindungen ausgetauscht.
 
-15.3 **Vollständigkeit**: Diese Vereinbarung ersetzt alle vorherigen mündlichen oder schriftlichen Absprachen zum Gegenstand dieser Vereinbarung.
+11.3 **Keine Echtdaten in der Konzeptphase**: Im Rahmen der Erstellung der Konzeptphase wird explizit auf die Verwendung von Echtdaten oder Personendaten verzichtet. In den Wireframes werden ausschliesslich fiktive, anonymisierte Beispieldaten zu Darstellungszwecken verwendet.
 
-15.4 **Rechtskraft und Signatur**: Diese Vereinbarung wird erst durch Unterschrift beider Parteien rechtsgültig. Die Unterzeichnung kann entweder analog (handschriftliche Unterschrift) oder digital mittels qualifizierter elektronischer Signatur (QES) gemäss Bundesgesetz über die elektronische Signatur (ZertES) erfolgen. Beide Formen sind gleichermassen rechtsverbindlich.
+11.4 **Übergang zu Echtdaten**: Ab dem Zeitpunkt, in dem Echtdaten oder Personendaten verarbeitet werden sollen, ist zwingend eine separate Datenverarbeitungs-Vereinbarung (AVV) zu erstellen. In dieser wird LEXO als Auftragsverarbeiterin datenschutzrechtlich genannt, geprüft und akkreditiert.
 
-15.5 **Anwendbares Recht**: Auf diese Vereinbarung findet ausschliesslich schweizerisches Recht Anwendung.
+11.5 **Compliance**: Die Parteien verpflichten sich, die Bestimmungen des revDSG und der relevanten Datenschutzvorschriften einzuhalten.
 
-15.6 **Gerichtsstand**: Ausschliesslicher Gerichtsstand ist Trogen AR.
+---
 
-15.7 **Ausfertigungen**: Diese Vereinbarung wird in mehreren gleichlautenden Exemplaren ausgefertigt. Jede Partei sowie alle einbezogenen Personen, die gemäss Ziff. 3.4 Zugang zu vertraulichen Projektdaten erhalten, erhalten ein unterzeichnetes Original oder eine beglaubigte Kopie.
+## 12. Streitbeilegung
+
+12.1 **Mediation**: Bei Streitigkeiten aus oder im Zusammenhang mit dieser Vereinbarung verpflichten sich die Parteien, zunächst eine Mediation anzustreben, bevor ein Gerichtsverfahren eingeleitet wird.
+
+12.2 **Mediator**: Die Parteien einigen sich auf einen gemeinsamen Mediator. Kommt keine Einigung zustande, wird der Mediator durch das zuständige Gericht bestimmt.
+
+12.3 **Kosten**: Die Kosten der Mediation tragen die Parteien je zur Hälfte.
+
+---
+
+## 13. Höhere Gewalt (Force Majeure)
+
+13.1 Keine Partei haftet für die Nichterfüllung oder verzögerte Erfüllung ihrer Verpflichtungen aus dieser Vereinbarung, wenn und soweit diese durch höhere Gewalt verursacht wird.
+
+13.2 Als höhere Gewalt gelten insbesondere: Naturkatastrophen, Krieg, Aufruhr, Pandemien, Streiks, behördliche Anordnungen, Ausfall kritischer Infrastruktur (Internet, Strom) sowie andere unvorhersehbare, unvermeidbare und ausserhalb der Kontrolle der betroffenen Partei liegende Ereignisse.
+
+13.3 Die betroffene Partei hat die andere Partei unverzüglich über das Eintreten und die voraussichtliche Dauer der höheren Gewalt zu informieren.
+
+---
+
+## 14. Schlussbestimmungen
+
+14.1 **Schriftform**: Änderungen und Ergänzungen dieser Vereinbarung bedürfen der Schriftform. Dies gilt auch für die Aufhebung des Schriftformerfordernisses.
+
+14.2 **Salvatorische Klausel**: Sollten einzelne Bestimmungen dieser Vereinbarung unwirksam sein oder werden, bleibt die Gültigkeit der übrigen Bestimmungen hiervon unberührt. Die unwirksame Bestimmung ist durch eine wirksame zu ersetzen, die dem wirtschaftlichen Zweck der unwirksamen Bestimmung am nächsten kommt.
+
+14.3 **Vollständigkeit**: Diese Vereinbarung ersetzt alle vorherigen mündlichen oder schriftlichen Absprachen zum Gegenstand dieser Vereinbarung.
+
+14.4 **Rechtskraft und Signatur**: Diese Vereinbarung wird erst durch Unterschrift beider Parteien rechtsgültig. Die Unterzeichnung kann entweder analog (handschriftliche Unterschrift) oder digital mittels qualifizierter elektronischer Signatur (QES) gemäss Bundesgesetz über die elektronische Signatur (ZertES) erfolgen. Beide Formen sind gleichermassen rechtsverbindlich.
+
+14.5 **Anwendbares Recht**: Auf diese Vereinbarung findet ausschliesslich schweizerisches Recht Anwendung.
+
+14.6 **Gerichtsstand**: Ausschliesslicher Gerichtsstand ist Trogen AR.
+
+14.7 **Ausfertigungen**: Diese Vereinbarung wird in mehreren gleichlautenden Exemplaren ausgefertigt. Jede Partei sowie alle einbezogenen Personen, die gemäss Ziffer 3.4 Zugang zu vertraulichen Projektdaten erhalten, erhalten ein unterzeichnetes Original oder eine beglaubigte Kopie.
 
 ---
 
@@ -248,9 +248,9 @@ _________________________
 
 ## Anhang: Mitarbeiter-Unterzeichnung
 
-Für alle einbezogenen Personen, die gemäss Ziff. 3.4 Zugang zu vertraulichen Projektdaten erhalten:
+Für alle einbezogenen Personen, die gemäss Ziffer 3.4 Zugang zu vertraulichen Projektdaten erhalten:
 
-**Ich bestätige, dass ich die vorstehende Vertraulichkeits- und Kooperationsvereinbarung für das Konzeptphasen-Projekt zur Kenntnis genommen habe und mich insbesondere zur Einhaltung der Geheimhaltungspflichten (Ziff. 2) und der Datenschutzbestimmungen (Ziff. 12) verpflichte.**
+**Ich bestätige, dass ich die vorstehende Vertraulichkeits- und Kooperationsvereinbarung für das Konzeptphasen-Projekt zur Kenntnis genommen habe und mich insbesondere zur Einhaltung der Geheimhaltungspflichten (Ziffer 2) und der Datenschutzbestimmungen (Ziffer 11) verpflichte.**
 
 ---
 
