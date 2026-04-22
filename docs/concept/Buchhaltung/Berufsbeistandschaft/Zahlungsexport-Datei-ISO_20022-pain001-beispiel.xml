@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Beispiel einer Schweizer pain.001-Datei nach ISO 20022 (Version 2019)
+  Swiss Payment Standards von SIX
+  Enthält drei Zahlungen:
+    1. QR-Rechnung mit QR-IBAN und QR-Referenz (Zahlungsart 1)
+    2. IBAN-Inlandzahlung CHF mit unstrukturierter Mitteilung (Zahlungsart 4)
+    3. SEPA-Zahlung in EUR (Zahlungsart 3)
+-->
+<Document xmlns="urn:iso:std:iso:20022:tech:xsd:pain.001.001.09"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <CstmrCdtTrfInitn>
+
+    <!-- ============================================================ -->
+    <!-- Level A: Group Header (einmal pro Datei)                     -->
+    <!-- ============================================================ -->
+    <GrpHdr>
+      <MsgId>MSG-20260422-0001</MsgId>
+      <CreDtTm>2026-04-22T09:30:47</CreDtTm>
+      <NbOfTxs>3</NbOfTxs>
+      <CtrlSum>3750.00</CtrlSum>
+      <InitgPty>
+        <Nm>Muster AG</Nm>
+      </InitgPty>
+    </GrpHdr>
+
+    <!-- ============================================================ -->
+    <!-- Level B: Payment Information - Block 1                       -->
+    <!-- Zahlungsart 1: QR-Rechnung mit QR-IBAN und QR-Referenz       -->
+    <!-- ============================================================ -->
+    <PmtInf>
+      <PmtInfId>PMT-2026-04-22-QR</PmtInfId>
+      <PmtMtd>TRF</PmtMtd>
+      <BtchBookg>true</BtchBookg>
+      <NbOfTxs>1</NbOfTxs>
+      <CtrlSum>1250.00</CtrlSum>
+      <PmtTpInf>
+        <SvcLvl>
+          <Prtry>CH01</Prtry>
+        </SvcLvl>
+      </PmtTpInf>
+      <ReqdExctnDt>
+        <Dt>2026-04-24</Dt>
+      </ReqdExctnDt>
+      <Dbtr>
+        <Nm>Muster AG</Nm>
+        <PstlAdr>
+          <StrtNm>Bahnhofstrasse</StrtNm>
+          <BldgNb>10</BldgNb>
+          <PstCd>8001</PstCd>
+          <TwnNm>Zuerich</TwnNm>
+          <Ctry>CH</Ctry>
+        </PstlAdr>
+      </Dbtr>
+      <DbtrAcct>
+        <Id>
+          <IBAN>CH9300762011623852957</IBAN>
+        </Id>
+      </DbtrAcct>
+      <DbtrAgt>
+        <FinInstnId>
+          <BICFI>POFICHBEXXX</BICFI>
+        </FinInstnId>
+      </DbtrAgt>
+      <ChrgBr>SLEV</ChrgBr>
+
+      <!-- Level C: einzelne Zahlung -->
+      <CdtTrfTxInf>
+        <PmtId>
+          <InstrId>INSTR-QR-0001</InstrId>
+          <EndToEndId>RECHNUNG-2026-456</EndToEndId>
+        </PmtId>
+        <Amt>
+          <InstdAmt Ccy="CHF">1250.00</InstdAmt>
+        </Amt>
+        <Cdtr>
+          <Nm>Lieferant GmbH</Nm>
+          <PstlAdr>
+            <StrtNm>Industrieweg</StrtNm>
+            <BldgNb>22</BldgNb>
+            <PstCd>4052</PstCd>
+            <TwnNm>Basel</TwnNm>
+            <Ctry>CH</Ctry>
+          </PstlAdr>
+        </Cdtr>
+        <CdtrAcct>
+          <Id>
+            <!-- QR-IBAN: IID-Bereich 30000-31999 -->
+            <IBAN>CH4431999123000889012</IBAN>
+          </Id>
+        </CdtrAcct>
+        <RmtInf>
+          <Strd>
+            <CdtrRefInf>
+              <Tp>
+                <CdOrPrtry>
+                  <Prtry>QRR</Prtry>
+                </CdOrPrtry>
+              </Tp>
+              <Ref>210000000003139471430009017</Ref>
+            </CdtrRefInf>
+          </Strd>
+        </RmtInf>
+      </CdtTrfTxInf>
+    </PmtInf>
+
+    <!-- ============================================================ -->
+    <!-- Level B: Payment Information - Block 2                       -->
+    <!-- Zahlungsart 4: IBAN-Inlandzahlung CHF                        -->
+    <!-- ============================================================ -->
+    <PmtInf>
+      <PmtInfId>PMT-2026-04-22-CH</PmtInfId>
+      <PmtMtd>TRF</PmtMtd>
+      <BtchBookg>true</BtchBookg>
+      <NbOfTxs>1</NbOfTxs>
+      <CtrlSum>1500.00</CtrlSum>
+      <ReqdExctnDt>
+        <Dt>2026-04-24</Dt>
+      </ReqdExctnDt>
+      <Dbtr>
+        <Nm>Muster AG</Nm>
+        <PstlAdr>
+          <StrtNm>Bahnhofstrasse</StrtNm>
+          <BldgNb>10</BldgNb>
+          <PstCd>8001</PstCd>
+          <TwnNm>Zuerich</TwnNm>
+          <Ctry>CH</Ctry>
+        </PstlAdr>
+      </Dbtr>
+      <DbtrAcct>
+        <Id>
+          <IBAN>CH9300762011623852957</IBAN>
+        </Id>
+      </DbtrAcct>
+      <DbtrAgt>
+        <FinInstnId>
+          <BICFI>POFICHBEXXX</BICFI>
+        </FinInstnId>
+      </DbtrAgt>
+      <ChrgBr>SLEV</ChrgBr>
+
+      <CdtTrfTxInf>
+        <PmtId>
+          <InstrId>INSTR-CH-0002</InstrId>
+          <EndToEndId>LOHN-APRIL-2026</EndToEndId>
+        </PmtId>
+        <Amt>
+          <InstdAmt Ccy="CHF">1500.00</InstdAmt>
+        </Amt>
+        <Cdtr>
+          <Nm>Anna Beispiel</Nm>
+          <PstlAdr>
+            <StrtNm>Seestrasse</StrtNm>
+            <BldgNb>5</BldgNb>
+            <PstCd>6004</PstCd>
+            <TwnNm>Luzern</TwnNm>
+            <Ctry>CH</Ctry>
+          </PstlAdr>
+        </Cdtr>
+        <CdtrAcct>
+          <Id>
+            <IBAN>CH5604835012345678009</IBAN>
+          </Id>
+        </CdtrAcct>
+        <RmtInf>
+          <Ustrd>Lohnzahlung April 2026</Ustrd>
+        </RmtInf>
+      </CdtTrfTxInf>
+    </PmtInf>
+
+    <!-- ============================================================ -->
+    <!-- Level B: Payment Information - Block 3                       -->
+    <!-- Zahlungsart 3: SEPA-Zahlung in EUR                           -->
+    <!-- ============================================================ -->
+    <PmtInf>
+      <PmtInfId>PMT-2026-04-22-SEPA</PmtInfId>
+      <PmtMtd>TRF</PmtMtd>
+      <BtchBookg>true</BtchBookg>
+      <NbOfTxs>1</NbOfTxs>
+      <CtrlSum>1000.00</CtrlSum>
+      <PmtTpInf>
+        <SvcLvl>
+          <Cd>SEPA</Cd>
+        </SvcLvl>
+      </PmtTpInf>
+      <ReqdExctnDt>
+        <Dt>2026-04-24</Dt>
+      </ReqdExctnDt>
+      <Dbtr>
+        <Nm>Muster AG</Nm>
+        <PstlAdr>
+          <StrtNm>Bahnhofstrasse</StrtNm>
+          <BldgNb>10</BldgNb>
+          <PstCd>8001</PstCd>
+          <TwnNm>Zuerich</TwnNm>
+          <Ctry>CH</Ctry>
+        </PstlAdr>
+      </Dbtr>
+      <DbtrAcct>
+        <Id>
+          <IBAN>CH9300762011623852957</IBAN>
+        </Id>
+      </DbtrAcct>
+      <DbtrAgt>
+        <FinInstnId>
+          <BICFI>POFICHBEXXX</BICFI>
+        </FinInstnId>
+      </DbtrAgt>
+      <ChrgBr>SLEV</ChrgBr>
+
+      <CdtTrfTxInf>
+        <PmtId>
+          <InstrId>INSTR-SEPA-0003</InstrId>
+          <EndToEndId>RE-DE-2026-789</EndToEndId>
+        </PmtId>
+        <Amt>
+          <InstdAmt Ccy="EUR">1000.00</InstdAmt>
+        </Amt>
+        <CdtrAgt>
+          <FinInstnId>
+            <BICFI>DEUTDEFFXXX</BICFI>
+          </FinInstnId>
+        </CdtrAgt>
+        <Cdtr>
+          <Nm>Deutscher Partner GmbH</Nm>
+          <PstlAdr>
+            <StrtNm>Hauptstrasse</StrtNm>
+            <BldgNb>15</BldgNb>
+            <PstCd>60311</PstCd>
+            <TwnNm>Frankfurt</TwnNm>
+            <Ctry>DE</Ctry>
+          </PstlAdr>
+        </Cdtr>
+        <CdtrAcct>
+          <Id>
+            <IBAN>DE89370400440532013000</IBAN>
+          </Id>
+        </CdtrAcct>
+        <RmtInf>
+          <Ustrd>Rechnung 789 vom 15.04.2026</Ustrd>
+        </RmtInf>
+      </CdtTrfTxInf>
+    </PmtInf>
+
+  </CstmrCdtTrfInitn>
+</Document>
